@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T00:12:59.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.17" etag="RgBYssc0eF0Dejmdw1io" type="github"><diagram name="Page-1" id="ubEjw9Soe5WlUHQYBvOu">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-07T00:45:26.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="xeAaPwrV8i1wX40-Rt33" version="20.8.17" type="github">
+  <diagram name="Page-1" id="ubEjw9Soe5WlUHQYBvOu">
+    <mxGraphModel dx="1194" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <object label="Admin" id="Pv28IN-DxyeYV7XUeNie-1">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+            <mxGeometry x="80" y="240" width="40" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Teacher" id="Pv28IN-DxyeYV7XUeNie-11">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+            <mxGeometry x="719" y="400" width="40" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="Student" id="Pv28IN-DxyeYV7XUeNie-12">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+            <mxGeometry x="719" y="120" width="40" height="80" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
