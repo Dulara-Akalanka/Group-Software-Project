@@ -20,10 +20,15 @@ h1{
 }
 nav{
     float: right;
+    padding: 40px;
 }
 ul{
+    
     list-style-type: none;
 }
 li {
+    color: #EF5B0C;
     display: inline;
+    
+    font-family: 'Roboto', sans-serif; 
 }
