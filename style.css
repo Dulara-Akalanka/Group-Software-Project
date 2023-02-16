@@ -6,6 +6,7 @@
 }
 .top{
     background-color: #00425A;
+    background-image: linear-gradient(to right, #00425A, #017098,#0393c8,#00425A);
     display: flex;
     font-family: 'Roboto', sans-serif;   
     height: 100px;
