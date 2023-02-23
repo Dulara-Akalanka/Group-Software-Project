@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-23T13:18:20.376Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="67JZWO9OSSUQo5LO7jjW" version="20.8.19" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-23T13:19:09.902Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="C1W1gm4KEoPaVfhtCwp_" version="20.8.19" type="github">
   <diagram name="Page-1" id="ubEjw9Soe5WlUHQYBvOu">
     <mxGraphModel dx="2283" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <object label="Teacher" id="Pv28IN-DxyeYV7XUeNie-11">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-            <mxGeometry x="839" y="300" width="40" height="80" as="geometry" />
+            <mxGeometry x="839" y="340" width="40" height="80" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="c3HVRP4QYgYHFnV6ZERY-2" value="check &amp;amp; collects payments" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -181,10 +181,10 @@
             <mxPoint x="319" y="288" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6EaZuIgObcY7H1KyTf7o-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.96;exitY=0.665;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="c3HVRP4QYgYHFnV6ZERY-4" edge="1">
+        <mxCell id="6EaZuIgObcY7H1KyTf7o-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.925;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="c3HVRP4QYgYHFnV6ZERY-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="288" as="sourcePoint" />
-            <mxPoint x="800" y="350" as="targetPoint" />
+            <mxPoint x="800" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8jlHhbLGYUdn-NlP1jrM-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="c3HVRP4QYgYHFnV6ZERY-29">
