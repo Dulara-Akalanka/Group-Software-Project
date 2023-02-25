@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T17:28:27.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mm4JlkTJrFf_mOeiwMvb" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T17:32:14.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4h-lIh58SnmGcA6a_zON" version="20.8.23" type="github">
   <diagram name="Page-1" id="ubEjw9Soe5WlUHQYBvOu">
     <mxGraphModel dx="2044" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <object label="Teacher" id="Pv28IN-DxyeYV7XUeNie-11">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-            <mxGeometry x="810" y="370" width="40" height="80" as="geometry" />
+            <mxGeometry x="730" y="356" width="40" height="80" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="c3HVRP4QYgYHFnV6ZERY-2" value="check &amp;amp; collects payments" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -34,13 +34,13 @@
         </mxCell>
         <mxCell id="c3HVRP4QYgYHFnV6ZERY-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="170" y="650.8000366210938" as="sourcePoint" />
-            <mxPoint x="170" y="-270.8" as="targetPoint" />
+            <mxPoint x="170" y="600" as="sourcePoint" />
+            <mxPoint x="180" y="-280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c3HVRP4QYgYHFnV6ZERY-17" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="643.199951171875" as="sourcePoint" />
+            <mxPoint x="630" y="600" as="sourcePoint" />
             <mxPoint x="630" y="-281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -71,7 +71,7 @@
         <mxCell id="c3HVRP4QYgYHFnV6ZERY-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="c3HVRP4QYgYHFnV6ZERY-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="220" as="sourcePoint" />
-            <mxPoint x="770" y="-80" as="targetPoint" />
+            <mxPoint x="720" y="-90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="c3HVRP4QYgYHFnV6ZERY-29" value="takes a payments records" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -88,22 +88,22 @@
         </mxCell>
         <object label="Student" id="WhDdKDSkJW6FN5Jh-hv0-4">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-            <mxGeometry x="839" y="-130" width="40" height="80" as="geometry" />
+            <mxGeometry x="779" y="-140" width="40" height="80" as="geometry" />
           </mxCell>
         </object>
         <object label="Playground" id="WhDdKDSkJW6FN5Jh-hv0-5">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-            <mxGeometry x="760" y="70" width="40" height="80" as="geometry" />
+            <mxGeometry x="700" y="60" width="40" height="80" as="geometry" />
           </mxCell>
         </object>
         <object label="LKG" id="WhDdKDSkJW6FN5Jh-hv0-6">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-            <mxGeometry x="839" y="70" width="40" height="80" as="geometry" />
+            <mxGeometry x="779" y="60" width="40" height="80" as="geometry" />
           </mxCell>
         </object>
         <object label="UKG" id="WhDdKDSkJW6FN5Jh-hv0-7">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-            <mxGeometry x="920" y="70" width="40" height="80" as="geometry" />
+            <mxGeometry x="860" y="60" width="40" height="80" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="WhDdKDSkJW6FN5Jh-hv0-8" value="Log into the system." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -184,7 +184,7 @@
         <mxCell id="6EaZuIgObcY7H1KyTf7o-1" value="" style="endArrow=none;html=1;rounded=0;exitX=0.925;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="c3HVRP4QYgYHFnV6ZERY-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="288" as="sourcePoint" />
-            <mxPoint x="800" y="390" as="targetPoint" />
+            <mxPoint x="720" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8jlHhbLGYUdn-NlP1jrM-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="c3HVRP4QYgYHFnV6ZERY-29" edge="1">
@@ -253,7 +253,7 @@
         <mxCell id="8jlHhbLGYUdn-NlP1jrM-19" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="408" as="sourcePoint" />
-            <mxPoint x="780" y="-60" as="targetPoint" />
+            <mxPoint x="720" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8jlHhbLGYUdn-NlP1jrM-20" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="c3HVRP4QYgYHFnV6ZERY-7" edge="1">
@@ -344,6 +344,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="23" as="sourcePoint" />
             <mxPoint x="360" y="-137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuGUEuUdeiehYVYY_9XW-4" value="Student Management System" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="300" y="-330" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RuGUEuUdeiehYVYY_9XW-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="-280" as="sourcePoint" />
+            <mxPoint x="630" y="-280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RuGUEuUdeiehYVYY_9XW-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="600" as="sourcePoint" />
+            <mxPoint x="630" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
