@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
 *{
-    margin: 50px;
+    margin: 0px;
     padding: 0px;
 }
 .top{
@@ -20,7 +20,7 @@ h1{
     padding-top: 30px;
 }
 nav{
-    float: right;
+    
     padding: 40px;
 }
 ul{
@@ -30,6 +30,17 @@ ul{
 li {
     color: #EF5B0C;
     display: inline;
-    
     font-family: 'Roboto', sans-serif; 
+    padding: 20px;
+    font-weight: bold;
+}
+a{
+    color: #EF5B0C;
+    text-decoration: none;
+}
+.foot p{
+    background: #00425A;
+    font-family: 'Roboto', sans-serif; 
+    height: 100px;
+    text-align: center;
 }
