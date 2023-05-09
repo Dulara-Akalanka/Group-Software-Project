@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T08:50:32.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DV6THWIbsIz1YmccAGg5" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T09:36:56.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="lhHCeRPBszjZpBJiQj4S" version="21.0.8" type="github">
   <diagram name="Page-1" id="ubEjw9Soe5WlUHQYBvOu">
     <mxGraphModel dx="2140" dy="1673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
           </mxCell>
         </object>
         <mxCell id="WhDdKDSkJW6FN5Jh-hv0-8" value="Log into the system." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="329" y="-260" width="190" height="40" as="geometry" />
+          <mxGeometry x="329" y="-260" width="191" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WhDdKDSkJW6FN5Jh-hv0-9" value="Register new students and teachers." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="319" y="-98" width="190" height="48" as="geometry" />
