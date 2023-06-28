@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T13:04:42.609Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="8ALsGGGnhPhxnkTtYs8l" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T13:11:24.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="348JO2lH29YuDOzmNaLm" version="21.5.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1433" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,13 +55,24 @@
           <mxGeometry x="45" y="550" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V1PZ9N-IoDOIy4KFMMRO-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="V1PZ9N-IoDOIy4KFMMRO-5">
-          <mxGeometry x="45" y="660" width="10" height="60" as="geometry" />
+          <mxGeometry x="45" y="660" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-38" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="V1PZ9N-IoDOIy4KFMMRO-5" source="V1PZ9N-IoDOIy4KFMMRO-12" target="V1PZ9N-IoDOIy4KFMMRO-12">
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-41" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;" edge="1" parent="V1PZ9N-IoDOIy4KFMMRO-5" source="V1PZ9N-IoDOIy4KFMMRO-18" target="V1PZ9N-IoDOIy4KFMMRO-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-41" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="V1PZ9N-IoDOIy4KFMMRO-5" source="V1PZ9N-IoDOIy4KFMMRO-18" target="V1PZ9N-IoDOIy4KFMMRO-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-43" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="V1PZ9N-IoDOIy4KFMMRO-5" source="V1PZ9N-IoDOIy4KFMMRO-24" target="V1PZ9N-IoDOIy4KFMMRO-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-45" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;" edge="1" parent="V1PZ9N-IoDOIy4KFMMRO-5" source="V1PZ9N-IoDOIy4KFMMRO-36" target="V1PZ9N-IoDOIy4KFMMRO-36">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="70" y="730" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="V1PZ9N-IoDOIy4KFMMRO-7" value="add new teacher" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -88,7 +99,7 @@
             <mxPoint x="850" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-11" value="registered new student" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1PZ9N-IoDOIy4KFMMRO-9">
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-11" value="registered student" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1PZ9N-IoDOIy4KFMMRO-9">
           <mxGeometry x="0.61" y="4" relative="1" as="geometry">
             <mxPoint x="-53" y="-6" as="offset" />
           </mxGeometry>
@@ -107,7 +118,7 @@
             <mxPoint x="850" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-16" value="registered new teacher" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1PZ9N-IoDOIy4KFMMRO-15">
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-16" value="registered teacher" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1PZ9N-IoDOIy4KFMMRO-15">
           <mxGeometry x="0.61" y="4" relative="1" as="geometry">
             <mxPoint x="-208" y="-11" as="offset" />
           </mxGeometry>
@@ -205,15 +216,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-39" value="check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="780.0033333333334" y="280" as="geometry">
-            <mxPoint x="120" y="25" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V1PZ9N-IoDOIy4KFMMRO-42" value="check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="780.0033333333334" y="290" as="geometry">
+          <mxGeometry x="780.0033333333334" y="390" as="geometry">
             <mxPoint x="117" y="109" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-48" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;check&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="720" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
