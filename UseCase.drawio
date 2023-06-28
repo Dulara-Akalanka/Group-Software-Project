@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T06:53:12.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vr8SKIf2dNkvI94OEew7" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T07:11:05.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GQVuEGtxDUuBdgyPpKWX" version="21.5.1" type="github">
   <diagram name="Page-1" id="ubEjw9Soe5WlUHQYBvOu">
     <mxGraphModel dx="2368" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,9 +44,26 @@
             <mxPoint x="750" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WpXmHh-h47XugkUZ6FBB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WhDdKDSkJW6FN5Jh-hv0-4" target="WpXmHh-h47XugkUZ6FBB-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="900" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpXmHh-h47XugkUZ6FBB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WhDdKDSkJW6FN5Jh-hv0-4" target="WpXmHh-h47XugkUZ6FBB-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpXmHh-h47XugkUZ6FBB-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WhDdKDSkJW6FN5Jh-hv0-4" target="WpXmHh-h47XugkUZ6FBB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <object label="Student" id="WhDdKDSkJW6FN5Jh-hv0-4">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-            <mxGeometry x="780" y="320" width="40" height="80" as="geometry" />
+            <mxGeometry x="810" y="320" width="40" height="80" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="WhDdKDSkJW6FN5Jh-hv0-8" value="Log into the system." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -263,6 +280,21 @@
             <mxPoint x="760" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <object label="Kindergartens" id="WpXmHh-h47XugkUZ6FBB-6">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+            <mxGeometry x="880" y="450" width="40" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="LKG" id="WpXmHh-h47XugkUZ6FBB-8">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+            <mxGeometry x="740" y="450" width="40" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="UKG" id="WpXmHh-h47XugkUZ6FBB-10">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+            <mxGeometry x="810" y="450" width="40" height="80" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
