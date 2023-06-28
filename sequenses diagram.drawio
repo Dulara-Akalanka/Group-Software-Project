@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T10:43:02.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="c8JTTZSEiQ-lplwzCOpG" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T10:53:37.451Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kXCDCH32Dhgez2pdTAaT" version="21.5.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="579" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -53,6 +53,9 @@
         </mxCell>
         <mxCell id="V1PZ9N-IoDOIy4KFMMRO-32" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="V1PZ9N-IoDOIy4KFMMRO-5">
           <mxGeometry x="45" y="550" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-36" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="V1PZ9N-IoDOIy4KFMMRO-5">
+          <mxGeometry x="45" y="660" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V1PZ9N-IoDOIy4KFMMRO-7" value="add new teacher" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -163,6 +166,37 @@
         <mxCell id="V1PZ9N-IoDOIy4KFMMRO-31" value="download / upload notes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1PZ9N-IoDOIy4KFMMRO-30">
           <mxGeometry x="0.61" y="4" relative="1" as="geometry">
             <mxPoint x="-208" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-33" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="655" y="710" as="sourcePoint" />
+            <mxPoint x="845" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-34" value="student pays fees" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="579.7777777777776" y="495" as="geometry">
+            <mxPoint x="161" y="202" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-35" value="generate payment receipt" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1039" relative="1" as="geometry">
+            <mxPoint x="657" y="750" as="targetPoint" />
+            <mxPoint x="843" y="750" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="788" y="750" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-37" value="send receipt via whatsapp" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1039" relative="1" as="geometry">
+            <mxPoint x="667" y="760" as="targetPoint" />
+            <mxPoint x="853" y="760" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="790" y="780" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
