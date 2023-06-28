@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T09:36:22.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="oa6OUFQx3F0OeJ3DfRz3" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T09:39:33.211Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="vApRWq-JibUXcBN15k01" version="21.5.1" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="521" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -95,7 +95,7 @@
             <mxPoint x="850" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-16" value="registered new student" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1PZ9N-IoDOIy4KFMMRO-15">
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-16" value="registered new teacher" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1PZ9N-IoDOIy4KFMMRO-15">
           <mxGeometry x="0.61" y="4" relative="1" as="geometry">
             <mxPoint x="-208" y="-11" as="offset" />
           </mxGeometry>
@@ -116,7 +116,7 @@
             <mxPoint x="850" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-20" value="registered new student" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1PZ9N-IoDOIy4KFMMRO-19">
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-20" value="scanning barcode&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1PZ9N-IoDOIy4KFMMRO-19">
           <mxGeometry x="0.61" y="4" relative="1" as="geometry">
             <mxPoint x="-208" y="-11" as="offset" />
           </mxGeometry>
@@ -127,13 +127,8 @@
             <mxPoint x="850" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-22" value="registered new student" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V1PZ9N-IoDOIy4KFMMRO-21">
-          <mxGeometry x="0.61" y="4" relative="1" as="geometry">
-            <mxPoint x="-53" y="-6" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-23" value="provide a bar code" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-1">
-          <mxGeometry x="-0.5206" relative="1" as="geometry">
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-23" value="get attenders and generate report" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry x="-0.737" relative="1" as="geometry">
             <mxPoint x="475" y="540" as="targetPoint" />
             <mxPoint x="850" y="540" as="sourcePoint" />
             <Array as="points">
@@ -141,6 +136,9 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="V1PZ9N-IoDOIy4KFMMRO-25" value="scanning barcode&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="448" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
